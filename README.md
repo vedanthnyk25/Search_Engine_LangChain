@@ -80,7 +80,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 **Vedanth Nayak**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@vedanthnyk25](https://github.com/vedanthnyk25)
 
 ## 🙏 Acknowledgments
 
