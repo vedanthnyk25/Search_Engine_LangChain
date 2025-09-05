@@ -47,7 +47,7 @@ if prompt := st.chat_input(placeholder="What is Quantum Computing?"):
     st.chat_message("user").write(prompt)
 
     # Initialize LLM and Agent
-    llm = ChatGroq(groq_api_key=groq_api_key, model_name="Llama3-8b-8192", streaming=True)
+    llm = ChatGroq(groq_api_key=groq_api_key, model_name="llama-3.3-70b-versatile", streaming=True)
     tools = [search, arxiv, wiki]
 
     search_agent = initialize_agent(
