@@ -26,9 +26,7 @@ search = DuckDuckGoSearchRun(name="Search")
 
 # Streamlit App UI
 st.title("LangChain: Chat with Search")
-"""
-In this application, we're using 'StreamlitCallbackHandler' to display the thoughts and actions of the agent in real time.
-"""
+
 st.sidebar.title("Settings")
 
 # Initialize chat history in session state
