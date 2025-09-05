@@ -1,7 +1,8 @@
+streamlit
 langchain>=0.2.17
 langchain-community>=0.0.220
 duckduckgo-search>=0.6
-streamlit
+ddgs>=1.9.0
 wikipedia
 arxiv
 langchain-groq
