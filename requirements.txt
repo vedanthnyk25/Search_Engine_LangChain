@@ -4,4 +4,4 @@ langchain_groq
 arxiv
 langchain
 wikipedia
-duckduckgo-search
+duckduckgo-search>=0.6
